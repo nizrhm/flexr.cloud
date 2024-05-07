@@ -30,15 +30,14 @@ export default function Navbar({ }): any {
             </div>
             <div className="items-center hidden gap-2 md:flex">
                 <ModeToggle />
-                <Link href="https://github.com/benlhachemi/modifio.git">
+                <Link href="https://bluebyte.digital">
                     <Button
                         variant="default"
-                        className="items-center hidden gap-2 bg-orange-600 rounded-full w-fit md:flex"
+                        className="items-center hidden gap-2 bg-blue-600 rounded-full w-fit md:flex"
                         size="lg"
                     >
-                        <span>Github Repo</span>
+                        <span>Explore</span>
                         <span className="text-xl">
-                            <BsGithub />
                         </span>
                     </Button>
                 </Link>
