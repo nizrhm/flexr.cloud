@@ -2,7 +2,9 @@ export default function About() {
   return (
       <div className="space-y-12 text-md md:text-lg text-muted-foreground pb-4 md:pb-8">
           <p>
-              Welcome to Flexr, your ultimate multimedia conversion powerhouse. With Flexr, you can transform images, audio files, and videos with unparalleled freedom, all at no cost! Say goodbye to limitations and hello to limitless creative possibilities.
+              Introducing Modifio, the ultimate multimedia conversion powerhouse that empowers you to transform images,
+              audio files, and videos with unprecedented freedom, all at absolutely no cost! Say goodbye to limitations
+              and hello to limitless creative possibilities.
           </p>
           <div className="space-y-2">
               <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">🖼️ Image Conversion:</h2>
@@ -44,7 +46,7 @@ export default function About() {
           <div className="space-y-2">
               <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">🌐 Accessible Anywhere:</h2>
               <p>
-                  Access Flexr from any device with an internet connection. Whether you're on your computer, tablet,
+                  Access Modifio from any device with an internet connection. Whether you're on your computer, tablet,
                   or smartphone, you can use our platform with ease.
               </p>
           </div>
@@ -75,11 +77,11 @@ export default function About() {
 
           <div className="space-y-2">
               <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">
-                  🌟 It's Free, It's Powerful, It's Flexr:
+                  🌟 It's Free, It's Powerful, It's Modifio:
               </h2>
               <p>
                   Experience the freedom to convert images, audio, and video without boundaries. Elevate your multimedia
-                  projects with the unlimited potential of Flexr.
+                  projects with the unlimited potential of Modifio.
               </p>
           </div>
 

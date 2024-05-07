@@ -3,7 +3,7 @@ export default function PrivacyPolicy() {
         <div className="space-y-12 text-md md:text-lg text-muted-foreground pb-4 md:pb-8">
             <p>Effective Date: Mon 1 Jan 2024</p>
             <p>
-                At Flexr, we are committed to safeguarding your privacy. This Privacy Policy outlines our practices
+                At Flexr.cloud, we are committed to safeguarding your privacy. This Privacy Policy outlines our practices
                 regarding the collection, use, and disclosure of personal information when you use our website and
                 services. Please read this policy carefully to understand how we handle your data.
             </p>

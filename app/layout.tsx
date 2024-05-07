@@ -8,10 +8,13 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Flexr - Free Unlimited File Converter",
-    description: `Unlock your creativity with Flexr – The ultimate online tool for limitless and free multimedia conversion. Effortlessly transform images, audio, and videos without any constraints. Begin converting now and take your content to new heights!`,
-    by: "BlueByte Digital",
-    keywords: "image converter, video converter, audio converter, unlimited conversions, multimedia conversion, content transformation, online conversion tool, free conversion tool, multimedia editing, content creation",
+    title: "Modifio - Free Unlimited File Converter",
+    description: `Unleash your creativity with Modifio – the ultimate online tool for
+  unlimited and free multimedia conversion. Transform images, audio, and
+  videos effortlessly, without restrictions. Start converting now and
+  elevate your content like never before!`,
+    creator: "SOUHAIL BEN-LHACHEMI",
+    keywords: "image converter, video converter, audio converter, unlimited image converter, unlimited video converter",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
