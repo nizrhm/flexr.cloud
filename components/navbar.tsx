@@ -30,7 +30,7 @@ export default function Navbar({ }): any {
             </div>
             <div className="items-center hidden gap-2 md:flex">
                 <ModeToggle />
-                <Link href="https://bluebyte.digital">
+                <Link href="https://bluebyte.digital" target="_blank" rel="noopener noreferrer">
                     <Button
                         variant="default"
                         className="items-center bg-blue-600 rounded-full w-fit md:flex"
