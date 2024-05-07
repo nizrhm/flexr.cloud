@@ -33,7 +33,7 @@ export default function Navbar({ }): any {
                 <Link href="https://bluebyte.digital">
                     <Button
                         variant="default"
-                        className="items-center hidden gap-2 bg-blue-600 rounded-full w-fit md:flex"
+                        className="items-center bg-blue-600 rounded-full w-fit md:flex"
                         size="lg"
                     >
                         <span>Explore</span>
